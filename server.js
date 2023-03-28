@@ -1337,12 +1337,12 @@
         }
     };
     var seedData = {
-        recipes:{
+        recipes: {
             'b559bd24-5fb6-4a42-bc48-40c17dea649d': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
                 'name': 'Christmas pie',
                 'description': 'Combine a few key Christmas flavours here to make a pie that both children and adults will adore',
-                'ingredients':'2 tbsp olive oil, knob butter, 1 onion, finely chopped, 500g sausagemeat or skinned sausages, grated zest of 1 lemon, 100g fresh white breadcrumbs, 85g ready-to-eat dried apricots, chopped, 50g chestnut, canned or vacuum-packed, chopped, 2 tsp chopped fresh or 1tsp dried thyme, 100g cranberries, fresh or frozen, 500g boneless, skinless chicken breasts, 500g pack ready-made shortcrust pastry, beaten egg, to glaze',
+                'ingredients': '2 tbsp olive oil, knob butter, 1 onion, finely chopped, 500g sausagemeat or skinned sausages, grated zest of 1 lemon, 100g fresh white breadcrumbs, 85g ready-to-eat dried apricots, chopped, 50g chestnut, canned or vacuum-packed, chopped, 2 tsp chopped fresh or 1tsp dried thyme, 100g cranberries, fresh or frozen, 500g boneless, skinless chicken breasts, 500g pack ready-made shortcrust pastry, beaten egg, to glaze',
                 'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2008/01/Christmas-pie-2ed9223.jpg?quality=90&webp=true&resize=300,272 ',
                 'method': "Heat oven to 190C/fan 170C/gas 5. Heat 1 tbsp oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt. Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins. Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly. Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg. Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles.",
                 'author': 'Peter Jackson',
@@ -1360,28 +1360,32 @@
             },
             'f6f54fcd-0469-470b-8ffa-a33ae6c7a524': {
                 '_ownerId': '847ec027-f659-4086-8032-5173e2f9c93a',
-                'name': 'Christmas pie',
-                'description': 'Combine a few key Christmas flavours here to make a pie that both children and adults will adore',
-                'iIngredients':'2 tbsp olive oil, knob butter, 1 onion, finely chopped, 500g sausagemeat or skinned sausages, grated zest of 1 lemon, 100g fresh white breadcrumbs, 85g ready-to-eat dried apricots, chopped, 50g chestnut, canned or vacuum-packed, chopped, 2 tsp chopped fresh or 1tsp dried thyme, 100g cranberries, fresh or frozen, 500g boneless, skinless chicken breasts, 500g pack ready-made shortcrust pastry, beaten egg, to glaze',
-                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2008/01/Christmas-pie-2ed9223.jpg?quality=90&webp=true&resize=300,272 ',
-                'method': "Heat oven to 190C/fan 170C/gas 5. Heat 1 tbsp oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt. Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins. Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly. Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg. Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles.",
+                'name': 'Christmas pudding with citrus & spice',
+                'description': 'A fruity pud, served with orange custard cream, makes the perfect end to the traditional Christmas meal',
+                'ingredients': ' 175g each raisin, currants and sultanas, 140g whole glac\u00e9 cherry, 50g mixed peel, 50g whole blanched almond, zest 1 orangeand 1 lemon", 1 medium carrot, peeled and finely grated, 150ml brandy, 50ml/2fl oz orangeliqueur, such asGrand Marnier, 175g light muscovado sugar, 175g fresh white breadcrumb, 125g self-raising flour,1 tsp mixed spice", \u00bc tsp grated nutmeg, 175g butter, frozen, 2 eggs, beaten, butter, for greasing, hollysprig, to decorate',
+                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-444460_11-faf7617.jpg?quality=90&webp=true&resize=300,272',
+                'method': '["Mix the fruit, almonds, citrus zests and the carrot with the brandy and orange liqueur in a large mixing bowl. Cover and leave to soak overnight.", "Mix all the dry ingredients together, then add to the soaked fruit mixture. Grate in the butter, then add the eggs and stir. Don\u2019t forget to make a wish!", "Grease a 1.5-litre pudding basin with butter and line the base with greaseproof paper. Spoon in the mixture, press down well and make a hollow with the back of the spoon in the centre. Cover the surface with a round of greaseproof paper, then cover the bowl with double-thickness greaseproof paper and foil and tie at the rim with string. Lower the pudding into a pan with an upturned saucer in the base, then fill with water until it comes halfway up the sides of the bowl. Steam for 6 hrs, topping up with water as necessary.", "Alternatively, steam in the oven. Stand the pudding basin in a roasting tin filled with water, then cover with a tent of foil and cook for the same length of time at 160C/fan 140C/gas 3. Check roasting tin occasionally as the water may need to be topped up.", "To store, allow to cool, then store in a cool, dry cupboard. The pudding will keep for up to a year.", "On the day, steam for 1 hr before turning out, decorating with holly and serving with extra-thick double cream or vanilla ice cream. Alternatively, try my Orange custard cream (below)."]',
                 'author': 'John Doe',
                 '_createdOn': 1617799658349
+
             },
             'b559bd24-5fb6-4a42-bc48-40c17dea649c': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
-                'name': 'Christmas pie',
-                'description': 'Combine a few key Christmas flavours here to make a pie that both children and adults will adore',
-                'ingredients':'2 tbsp olive oil, knob butter, 1 onion, finely chopped, 500g sausagemeat or skinned sausages, grated zest of 1 lemon, 100g fresh white breadcrumbs, 85g ready-to-eat dried apricots, chopped, 50g chestnut, canned or vacuum-packed, chopped, 2 tsp chopped fresh or 1tsp dried thyme, 100g cranberries, fresh or frozen, 500g boneless, skinless chicken breasts, 500g pack ready-made shortcrust pastry, beaten egg, to glaze',
-                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2008/01/Christmas-pie-2ed9223.jpg?quality=90&webp=true&resize=300,272 ',
-                'method': "Heat oven to 190C/fan 170C/gas 5. Heat 1 tbsp oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt. Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins. Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly. Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg. Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles.",
+                'name': 'Christmas mess',
+                'description': 'Delicious and a synch to make! Have made this a couple of times as a dinner party dessert, very pretty as a winter alternative to Eton mess. The fact you use frozen fruits is great, I just used a bog standard pack of frozen mixed berries and added some home made blackberry liqueur. Like other people, I added more cinnamon. Thumbs up!',
+                'ingredients': '600ml double cream, 400g Greek yoghurt, 4 tbsp lemon curd, 1 x 500g bag frozen mixed berries(we used Sainsbury\'s Black Forest fruits), 4 tbsp icing sugar,2 tbsp cassis(optional), 1 pinch cinnamon, 8 meringuenests',
+                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1163480_10-f4113c0.jpg?quality=90&webp=true&resize=300,272',
+                'method': '["In a small saucepan gently heat the frozen berries, icing sugar and cinnamon until the sugar has dissolved. Remove from the heat, stir in the cassis, if using, and set aside to cool completely.", "Whip the doublecream and Greek yogurt until just holding it\u2019s shape, ripple through the lemoncurd. Break the meringue nests into a glass bowl, or 8 individual glasses. Spoon over half the cream, then half the berries. Repeat with the remaining cream and berries. Serve immediately."]',
                 'author': 'John Doe',
                 '_createdOn': 1617797078109
             },
-            
+
+
+
+
         },
         likes: {
-            
+
         }
     };
     var rules$1 = {
