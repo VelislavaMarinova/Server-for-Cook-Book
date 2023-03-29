@@ -1338,46 +1338,96 @@
     };
     var seedData = {
         recipes: {
-            'b559bd24-5fb6-4a42-bc48-40c17dea649d': {
+            'b559bd24-5fb6-4a42-bc48-40c17dea645d': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
+                'category': 'salad',
+                'dificulty': 'Easy',
+                'prepare': '15 mins',
+                'cook': 'Ready in 15 minutes',
+                'serves': 'Serves 8',
+                'name': 'Winter leaf salad',
+                'description': 'Salads work in both summer and winter. This rustic colder-weather mix contains fennel, apple, dill and a honey, mustard and poppy seed dressing", ',
+                'ingredients': ["175g mixed leaf(we used rocket, watercress and spinach)", "1 large or 2 small fennel bulbs - thinly sliced", "1 apple - halved and thinly sliced", "2 tbsp chopped dill", "finely grated zest 1/2 orange plus 1 1/2 tbsp juice", "3 tbsp extra virgin olive oil", "drizzle of clear honey", "1 tsp Dijon mustard", "1 tbsp white wine vinegar", "2 tsp poppy seed"],
+                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/salad_3-46ba94f.jpg?quality=90&webp=true&resize=300,272',
+                'method': ["Mix all the ingredients for the dressing together with some seasoning. Combine the salad leaves, fennel, apple and dill in a large bowl. Just before serving, pour over the dressing and toss together."],
+                'author': 'Peter Jackson',
+                '_createdOn': 1617797078105
+            },
+            'b559bd24-5fb6-4a42-bc48-40c17dea659d': {
+                '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
+                'category': 'salad',
+                'dificulty': 'Easy',
+                'prepare': '30 mins',
+                'cook': 'Ready in 20-30 minutes',
+                'serves': 'Serves 4',
+                'name': 'Winter crunch salad',
+                'description': 'A crispy, fresh vegetarian salad to use up those winter vegetables.',
+                'ingredients': ["1 x 170g ready-to-bake garlic bread", "2 heads of chicory", "2 celery sticks, cut into thin diagonal slices", "1 bunch of radishes, trimmed and quartered", "50g shelled walnut or pecans, toasted and roughly chopped", "2 red-skinned eating apples, cored and cut into slim wedges", "175g stilton (or any leftover cheese)", "4-5 tbsp ready-made honey and mustard dressing, to serve"],
+                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-307_11-301abd4.jpg?quality=90&webp=true&resize=300,272',
+                'method': ["Preheat the oven and cook the garlic bread according to packet instructions.", "While the bread is in the oven separate the chicory into leaves and toss in a large bowl with the celery, radishes, nuts and apples. Crumble the stilton in large chunks over the top.", "To finish the salad, cut half the garlic bread into the marked slices. Cut the remainder into chunks and toss into the salad with as much dressing as you like. Serve with the remaining garlic bread on the side."],
+                'author': 'Peter Jackson',
+                '_createdOn': 1617797078104
+            },
+            'b559bd24-5fb6-4a42-bc48-40c17dea648d': {
+                '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
+                'category': 'dessert',
+                'dificulty': 'Easy',
+                'prepare': '20 mins',
+                'cook': '3 hrs and 30 mins',
+                'serves': 'Serves 4',
                 'name': 'Christmas pie',
                 'description': 'Combine a few key Christmas flavours here to make a pie that both children and adults will adore',
-                'ingredients': '2 tbsp olive oil, knob butter, 1 onion, finely chopped, 500g sausagemeat or skinned sausages, grated zest of 1 lemon, 100g fresh white breadcrumbs, 85g ready-to-eat dried apricots, chopped, 50g chestnut, canned or vacuum-packed, chopped, 2 tsp chopped fresh or 1tsp dried thyme, 100g cranberries, fresh or frozen, 500g boneless, skinless chicken breasts, 500g pack ready-made shortcrust pastry, beaten egg, to glaze',
+                'ingredients': ["2 tbsp olive oil", "knob butter", "1 onion, finely chopped", "500g sausagemeat or skinned sausages", "grated zest of 1 lemon", "100g fresh white breadcrumbs", "85g ready-to-eat dried apricots, chopped", "50g chestnut, canned or vacuum-packed, chopped", "2 tsp chopped fresh or 1tsp dried thyme", "100g cranberries, fresh or frozen", "500g boneless, skinless chicken breasts", "500g pack ready-made shortcrust pastry", "beaten egg, to glaze"],
                 'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2008/01/Christmas-pie-2ed9223.jpg?quality=90&webp=true&resize=300,272 ',
-                'method': "Heat oven to 190C/fan 170C/gas 5. Heat 1 tbsp oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt. Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins. Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly. Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg. Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles.",
+                'method': ["Heat oven to 190C/fan 170C/gas 5. Heat 1 tbsp oil and the butter in a frying pan, then add the onion and fry for 5 mins until softened. Cool slightly. Tip the sausagemeat, lemon zest, breadcrumbs, apricots, chestnuts and thyme into a bowl. Add the onion and cranberries, and mix everything together with your hands, adding plenty of pepper and a little salt.", "Cut each chicken breast into three fillets lengthwise and season all over with salt and pepper. Heat the remaining oil in the frying pan, and fry the chicken fillets quickly until browned, about 6-8 mins.", "Roll out two-thirds of the pastry to line a 20-23cm springform or deep loose-based tart tin. Press in half the sausage mix and spread to level. Then add the chicken pieces in one layer and cover with the rest of the sausage. Press down lightly.", "Roll out the remaining pastry. Brush the edges of the pastry with beaten egg and cover with the pastry lid. Pinch the edges to seal, then trim. Brush the top of the pie with egg, then roll out the trimmings to make holly leaf shapes and berries. Decorate the pie and brush again with egg.", "Set the tin on a baking sheet and bake for 50-60 mins, then cool in the tin for 15 mins. Remove and leave to cool completely. Serve with a winter salad and pickles."],
                 'author': 'Peter Jackson',
                 '_createdOn': 1617797078108
             },
             '2949b54d-b163-4a00-b65c-41fb8b641561': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
+                'category': 'dessert',
+                'dificulty': 'Easy',
+                'prepare': '40 mins',
+                'cook': 'Cook:45 mins',
+                'serves': 'Makes 12',
                 "name": "Christmas cupcakes",
                 "description": "These beautiful and classy little cakes make lovely gifts, and kids will enjoy decorating them too",
-                "ingredients": "200g dark muscovado sugar, 175g butter, chopped, 700g luxury mixed dried fruit, 50g glac\u00e9 cherries, 2 tsp grated fresh root ginger, zest and juice 1 orange, 100ml dark rum, brandy or orange juice, 85g/3oz pecannuts, roughly chopped, 3 large eggs, beaten, 85g ground almond, 200g plain flour, 1 tsp baking powder, 1 tsp mixed spice, 1 tsp cinnamon, 400g pack ready-rolled marzipan(we used Dr Oetker), 4 tbsp warm apricotjam or shredless marmalade, 500g pack fondant icingsugar, icing sugar, for dusting, 6 gold and 6 silver muffincases, 6 gold and 6 silver sugared almonds, snowflake sprinkles",
+                "ingredients": ["200g dark muscovado sugar", "175g butter, chopped", "700g luxury mixed dried fruit", "50g glac 1/2 cherries", "2 tsp grated fresh root ginger", "zest and juice 1 orange", "100ml dark rum, brandy or orange juice", "85g/3oz pecannuts, roughly chopped", "3 large eggs, beaten", "85g ground almond", "200g plain flour", "\u00bd tsp baking powder", "1 tsp mixed spice", "1 tsp cinnamon", "400g pack ready-rolled marzipan(we used Dr Oetker)", "4 tbsp warm apricotjam or shredless marmalade", "500g pack fondant icingsugar", "icing sugar, for dusting", "6 gold and 6 silver muffincases", "6 gold and 6 silver sugared almonds", "snowflake sprinkles"],
                 "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-444572_12-4487e3a.jpg?quality=90&webp=true&resize=300,272",
-                "method": "Tip the sugar, butter, dried fruit, whole cherries, ginger, orange zest and juice into a large pan. Pour over the rum, brandy or juice, then put on the heat and slowly bring to the boil, stirring frequently to melt the butter. Reduce the heat and bubble gently, uncovered for 10 mins, stirring every now and again to make sure the mixture doesn\u2019t catch on the bottom of the pan. Set aside for 30 mins to cool. Stir the nuts, eggs and ground almonds into the fruit, then sift in the flour, baking powder and spices. Stir everything together gently but thoroughly. Your batter is ready.Heat oven to 150C/130C fan/gas 2. Scoop the cake mix into 12 deep muffin cases (an ice-cream scoop works well), then level tops with a spoon dipped in hot water. Bake for 35-45 mins until golden and just firm to touch. A skewer inserted should come out clean. Cool on a wire rack.Unravel the marzipan onto a work surface lightly dusted with icing sugar. Stamp out 12 rounds, 6cm across. Brush the cake tops with apricot jam, top with a marzipan round and press down lightly. Make up the fondant icing to a spreading consistency, then swirl on top of each cupcake. Decorate with sugared almonds and snowflakes, then leave to set. Will keep in a tin for 3 weeks.",
+                "method": ["Tip the sugar, butter, dried fruit, whole cherries, ginger, orange zest and juice into a large pan. Pour over the rum, brandy or juice, then put on the heat and slowly bring to the boil, stirring frequently to melt the butter. Reduce the heat and bubble gently, uncovered for 10 mins, stirring every now and again to make sure the mixture doesn\u2019t catch on the bottom of the pan. Set aside for 30 mins to cool.", "Stir the nuts, eggs and ground almonds into the fruit, then sift in the flour, baking powder and spices. Stir everything together gently but thoroughly. Your batter is ready.", "Heat oven to 150C/130C fan/gas 2. Scoop the cake mix into 12 deep muffin cases (an ice-cream scoop works well), then level tops with a spoon dipped in hot water. Bake for 35-45 mins until golden and just firm to touch. A skewer inserted should come out clean. Cool on a wire rack.", "Unravel the marzipan onto a work surface lightly dusted with icing sugar. Stamp out 12 rounds, 6cm across. Brush the cake tops with apricot jam, top with a marzipan round and press down lightly.", "Make up the fondant icing to a spreading consistency, then swirl on top of each cupcake. Decorate with sugared almonds and snowflakes, then leave to set. Will keep in a tin for 3 weeks."],
                 "author": "Peter Jackson",
                 '_createdOn': 1617799443179
             },
             'f6f54fcd-0469-470b-8ffa-a33ae6c7a524': {
                 '_ownerId': '847ec027-f659-4086-8032-5173e2f9c93a',
+                'category': 'dessert',
+                'dificulty': 'Easy',
+                'prepare': '30 mins plus soaking overnight',
+                'cook': 'Cook:6 hrs',
+                'serves': 'Makes 10',
                 'name': 'Christmas pudding with citrus & spice',
                 'description': 'A fruity pud, served with orange custard cream, makes the perfect end to the traditional Christmas meal',
-                'ingredients': ' 175g each raisin, currants and sultanas, 140g whole glac\u00e9 cherry, 50g mixed peel, 50g whole blanched almond, zest 1 orangeand 1 lemon", 1 medium carrot, peeled and finely grated, 150ml brandy, 50ml/2fl oz orangeliqueur, such asGrand Marnier, 175g light muscovado sugar, 175g fresh white breadcrumb, 125g self-raising flour,1 tsp mixed spice", \u00bc tsp grated nutmeg, 175g butter, frozen, 2 eggs, beaten, butter, for greasing, hollysprig, to decorate',
+                'ingredients':["175g each raisin, currants and sultanas", "140g whole glac 1/2 cherry", "50g mixed peel", "50g whole blanched almond", "zest 1 orangeand 1 lemon", "1 medium carrot, peeled and finely grated", "150ml brandy", "50ml/2fl oz orangeliqueur, such as Grand Marnier", "175g light muscovado sugar", "175g fresh white breadcrumb", "125g self-raising flour", "1 tsp mixed spice", "1/2 tsp grated nutmeg", "175g butter, frozen", "2 eggs, beaten", "butter, for greasing", "hollysprig, to decorate"] ,
                 'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-444460_11-faf7617.jpg?quality=90&webp=true&resize=300,272',
-                'method': '["Mix the fruit, almonds, citrus zests and the carrot with the brandy and orange liqueur in a large mixing bowl. Cover and leave to soak overnight.", "Mix all the dry ingredients together, then add to the soaked fruit mixture. Grate in the butter, then add the eggs and stir. Don\u2019t forget to make a wish!", "Grease a 1.5-litre pudding basin with butter and line the base with greaseproof paper. Spoon in the mixture, press down well and make a hollow with the back of the spoon in the centre. Cover the surface with a round of greaseproof paper, then cover the bowl with double-thickness greaseproof paper and foil and tie at the rim with string. Lower the pudding into a pan with an upturned saucer in the base, then fill with water until it comes halfway up the sides of the bowl. Steam for 6 hrs, topping up with water as necessary.", "Alternatively, steam in the oven. Stand the pudding basin in a roasting tin filled with water, then cover with a tent of foil and cook for the same length of time at 160C/fan 140C/gas 3. Check roasting tin occasionally as the water may need to be topped up.", "To store, allow to cool, then store in a cool, dry cupboard. The pudding will keep for up to a year.", "On the day, steam for 1 hr before turning out, decorating with holly and serving with extra-thick double cream or vanilla ice cream. Alternatively, try my Orange custard cream (below)."]',
+                'method': ["Mix the fruit, almonds, citrus zests and the carrot with the brandy and orange liqueur in a large mixing bowl. Cover and leave to soak overnight.", "Mix all the dry ingredients together, then add to the soaked fruit mixture. Grate in the butter, then add the eggs and stir. Don\u2019t forget to make a wish!", "Grease a 1.5-litre pudding basin with butter and line the base with greaseproof paper. Spoon in the mixture, press down well and make a hollow with the back of the spoon in the centre. Cover the surface with a round of greaseproof paper, then cover the bowl with double-thickness greaseproof paper and foil and tie at the rim with string. Lower the pudding into a pan with an upturned saucer in the base, then fill with water until it comes halfway up the sides of the bowl. Steam for 6 hrs, topping up with water as necessary.", "Alternatively, steam in the oven. Stand the pudding basin in a roasting tin filled with water, then cover with a tent of foil and cook for the same length of time at 160C/fan 140C/gas 3. Check roasting tin occasionally as the water may need to be topped up.", "To store, allow to cool, then store in a cool, dry cupboard. The pudding will keep for up to a year.", "On the day, steam for 1 hr before turning out, decorating with holly and serving with extra-thick double cream or vanilla ice cream. Alternatively, try my Orange custard cream (below)."],
                 'author': 'John Doe',
                 '_createdOn': 1617799658349
 
             },
-            'b559bd24-5fb6-4a42-bc48-40c17dea649c': {
+            'b559bd24-5fb6-4a42-bc48-40c17dea646c': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
+                'category': 'dessert',
+                'dificulty': 'easy',
+                'prepare': '10 mins',
+                'cook': 'Cook:5 mins',
+                'serves': 'Serves 8',
                 'name': 'Christmas mess',
                 'description': 'Delicious and a synch to make! Have made this a couple of times as a dinner party dessert, very pretty as a winter alternative to Eton mess. The fact you use frozen fruits is great, I just used a bog standard pack of frozen mixed berries and added some home made blackberry liqueur. Like other people, I added more cinnamon. Thumbs up!',
-                'ingredients': '600ml double cream, 400g Greek yoghurt, 4 tbsp lemon curd, 1 x 500g bag frozen mixed berries(we used Sainsbury\'s Black Forest fruits), 4 tbsp icing sugar,2 tbsp cassis(optional), 1 pinch cinnamon, 8 meringuenests',
-                'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1163480_10-f4113c0.jpg?quality=90&webp=true&resize=300,272',
-                'method': '["In a small saucepan gently heat the frozen berries, icing sugar and cinnamon until the sugar has dissolved. Remove from the heat, stir in the cassis, if using, and set aside to cool completely.", "Whip the doublecream and Greek yogurt until just holding it\u2019s shape, ripple through the lemoncurd. Break the meringue nests into a glass bowl, or 8 individual glasses. Spoon over half the cream, then half the berries. Repeat with the remaining cream and berries. Serve immediately."]',
+                'ingredients': ["600ml double cream", "400g Greek yoghurt", "4 tbsp lemon curd", "1 x 500g bag frozen mixed berries(we used Sainsbury's Black Forest fruits)", "4 tbsp icing sugar", "2 tbsp cassis(optional)", "1 pinch cinnamon", "8 meringuenests"],
+                 'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1163480_10-f4113c0.jpg?quality=90&webp=true&resize=300,272',
+                'method': ["In a small saucepan gently heat the frozen berries, icing sugar and cinnamon until the sugar has dissolved. Remove from the heat, stir in the cassis, if using, and set aside to cool completely.", "Whip the doublecream and Greek yogurt until just holding it\u2019s shape, ripple through the lemoncurd. Break the meringue nests into a glass bowl, or 8 individual glasses. Spoon over half the cream, then half the berries. Repeat with the remaining cream and berries. Serve immediately."],
                 'author': 'John Doe',
-                '_createdOn': 1617797078109
+                '_createdOn': 1617797078110
             },
 
 
