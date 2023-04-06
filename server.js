@@ -1345,7 +1345,7 @@
                 'prepare': '15 mins',
                 'cook': 'Ready in 15 minutes',
                 'serves': 'Serves 8',
-                'name': 'Winter leaf salad',
+                'title': 'Winter leaf salad',
                 'description': 'Salads work in both summer and winter. This rustic colder-weather mix contains fennel, apple, dill and a honey, mustard and poppy seed dressing", ',
                 'ingredients': ["175g mixed leaf(we used rocket, watercress and spinach)", "1 large or 2 small fennel bulbs - thinly sliced", "1 apple - halved and thinly sliced", "2 tbsp chopped dill", "finely grated zest 1/2 orange plus 1 1/2 tbsp juice", "3 tbsp extra virgin olive oil", "drizzle of clear honey", "1 tsp Dijon mustard", "1 tbsp white wine vinegar", "2 tsp poppy seed"],
                 'imageUrl': 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/salad_3-46ba94f.jpg?quality=90&webp=true&resize=300,272',
