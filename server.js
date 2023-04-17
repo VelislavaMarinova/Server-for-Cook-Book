@@ -1341,7 +1341,7 @@
             'b559bd24-5fb6-4a42-bc48-40c17dea645d': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
                 'category': 'salads',
-                'dificulty': 'Easy',
+                'dificulty': 'easy',
                 'prepare': '15 mins',
                 'cook': 'Ready in 15 minutes',
                 'serves': 'Serves 8',
@@ -1356,7 +1356,7 @@
             'b559bd24-5fb6-4a42-bc48-40c17dea659d': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
                 'category': 'salads',
-                'dificulty': 'Easy',
+                'dificulty': 'easy',
                 'prepare': '30 mins',
                 'cook': 'Ready in 20-30 minutes',
                 'serves': 'Serves 4',
@@ -1371,7 +1371,7 @@
             'b559bd24-5fb6-4a42-bc48-40c17dea648d': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
                 'category': 'desserts',
-                'dificulty': 'Easy',
+                'dificulty': 'easy',
                 'prepare': '20 mins',
                 'cook': '3 hrs and 30 mins',
                 'serves': 'Serves 4',
@@ -1386,7 +1386,7 @@
             '2949b54d-b163-4a00-b65c-41fb8b641561': {
                 '_ownerId': '35c62d76-8152-4626-8712-eeb96381bea8',
                 'category': 'desserts',
-                'dificulty': 'Easy',
+                'dificulty': 'easy',
                 'prepare': '40 mins',
                 'cook': '45 mins',
                 'serves': 'Makes 12',
@@ -1401,7 +1401,7 @@
             'f6f54fcd-0469-470b-8ffa-a33ae6c7a524': {
                 '_ownerId': '847ec027-f659-4086-8032-5173e2f9c93a',
                 'category': 'desserts',
-                'dificulty': 'Easy',
+                'dificulty': 'easy',
                 'prepare': '30 mins plus soaking overnight',
                 'cook': '6 hrs',
                 'serves': 'Makes 10',
